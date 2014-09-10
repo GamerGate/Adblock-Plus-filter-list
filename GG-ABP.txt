@@ -44,6 +44,8 @@
 ||www.gizmodo.jp^
 ||www.pcauthority.com.au^
 ||techcrunch.com^
+||www.wired.com^
+||arstechnica.com^
 !------------------Geek/Pop Culture News/Review/Opinion Sites------------------!
 ||www.vice.com^
 ||www.dailydot.com^
@@ -58,6 +60,7 @@
 ||uproxx.com^
 ||comicsalliance.com^
 ||www.pastemagazine.com^
+||www.newyorker.com^
 !-------------------------Other Special Interest Sites-------------------------!
 ||gawker.com^
 ||valleywag.gawker.com^
