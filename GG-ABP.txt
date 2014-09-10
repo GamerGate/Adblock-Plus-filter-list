@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201409101045
+! Version: 201409101245
 ! Title: GamerGate
-! Last modified: 10 Sep 2014 10:45 UTC
+! Last modified: 10 Sep 2014 12:45 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/GamerGate/Adblock-Plus-filter-list/
 ! License: https://creativecommons.org/licenses/by-sa/3.0/
@@ -9,8 +9,7 @@
 ! Please report any unblocked domains or problems
 ! via e-mail (GamerGate at boun dot cr).
 !
-!-----------------------------------------------------------------------------!
-!
+!---------------------Video Game News/Review/Opinion Sites---------------------!
 ||kotaku.com^
 ||www.kotaku.co.uk^
 ||www.kotaku.com.au^
@@ -37,6 +36,7 @@
 ||games.on.net^
 ||www.ausgamers.com^
 ||www.gameplanet.co.nz^
+!-------------------------IT News/Review/Opinion Sites-------------------------!
 ||gizmodo.com^
 ||www.gizmodo.co.uk^
 ||www.gizmodo.com.au^
@@ -44,6 +44,7 @@
 ||www.gizmodo.jp^
 ||www.pcauthority.com.au^
 ||techcrunch.com^
+!------------------Geek/Pop Culture News/Review/Opinion Sites------------------!
 ||www.vice.com^
 ||www.dailydot.com^
 ||badassdigest.com^
@@ -57,6 +58,7 @@
 ||uproxx.com^
 ||comicsalliance.com^
 ||www.pastemagazine.com^
+!-------------------------Other Special Interest Sites-------------------------!
 ||gawker.com^
 ||valleywag.gawker.com^
 ||defamer.gawker.com^
@@ -73,15 +75,20 @@
 ||truckyeah.jalopnik.com^
 ||cink.hu^
 ||www.doctornerdlove.com^
+!------------------------------Vloggers/Podcasters-----------------------------!
 ||www.idlethumbs.net^
+!-----------------------------Forum/Community Sites----------------------------!
 ||www.neogaf.com^
 ||www.somethingawful.com^
+!-----------------------Video Game Developers/Publishers-----------------------!
 ||loveshackentertainment.com^
 ||polytroncorporation.com^
 ||fullbright.company^
 ||auntiepixelante.com^
+!----------------------------PR/Ad/Creative Agencies---------------------------!
 ||silverstringmedia.com^
 ||agencyforgames.com^
+!---------------------------------Causes/Events--------------------------------!
 ||www.rebelgamejam.com^
 ||www.paxsite.com^
 ||www.childsplaycharity.org^
