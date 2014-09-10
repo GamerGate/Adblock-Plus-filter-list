@@ -4,7 +4,6 @@
 ! Last modified: 10 Sep 2014 01:10 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/GamerGate/Adblock-Plus-filter-list/
-! Licence: https://easylist-downloads.adblockplus.org/COPYING
 !
 ! Please report any unblocked domains or problems
 ! via e-mail (GamerGate at boun dot cr).
