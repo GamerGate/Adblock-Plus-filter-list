@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201409100110
+! Version: 201409100130
 ! Title: GamerGate
-! Last modified: 10 Sep 2014 01:10 UTC
+! Last modified: 10 Sep 2014 01:30 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/GamerGate/Adblock-Plus-filter-list/
 !
