@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201409102220
+! Version: 201409110215
 ! Title: GamerGate
-! Last modified: 10 Sep 2014 22:20 UTC
+! Last modified: 11 Sep 2014 02:15 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/GamerGate/Adblock-Plus-filter-list/
 ! License: https://creativecommons.org/licenses/by-sa/3.0/
@@ -94,6 +94,13 @@
 !---------------------------------Causes/Events--------------------------------!
 ||www.rebelgamejam.com^
 ||www.paxsite.com^
+||prime.paxsite.com^
+||east.paxsite.com^
+||south.paxsite.com^
+||aus.paxsite.com^
+||auspanels.paxsite.com^
+||dev.paxsite.com^
+||devpanels.paxsite.com^
 ||www.childsplaycharity.org^
 ||www.igf.com^
 ||www.indiecade.com^
