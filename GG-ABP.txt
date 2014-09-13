@@ -1,10 +1,10 @@
 [Adblock Plus 1.1]
-! Version: 201409110215
+! Version: 201409130345
 ! Title: GamerGate
-! Last modified: 11 Sep 2014 02:15 UTC
+! Last modified: 13 Sep 2014 03:45 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/GamerGate/Adblock-Plus-filter-list/
-! License: https://creativecommons.org/licenses/by-sa/3.0/
+! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !
 ! Please report any unblocked domains or problems
 ! via e-mail (GamerGate at boun dot cr).
@@ -78,7 +78,7 @@
 ||truckyeah.jalopnik.com^
 ||cink.hu^
 ||www.doctornerdlove.com^
-!------------------------------Vloggers/Podcasters-----------------------------!
+!-----------------------Livestreamers/Vloggers/Podcasters----------------------!
 ||www.idlethumbs.net^
 !-----------------------------Forum/Community Sites----------------------------!
 ||www.neogaf.com^
