@@ -6,3 +6,6 @@ https://rawgit.com/GamerGate/Adblock-Plus-filter-list/master/install.html
      
 GamerGate Support List:  
 http://makealist.com/content/quinngategamergate-support-list  
+
+GamerGate Effect Graphs:  
+http://makealist.com/content/gamergate-watch-them-fall  
