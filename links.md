@@ -1,7 +1,7 @@
 **GamerGate Boycott List:**  
 http://makealist.com/content/quinngategamergate-boycott-list  
      
-**GamerGate Adblock Plus Filter List of Boycott List:<sup>*</sup>**  
+**GamerGate Adblock Plus Filter List of Boycott List<sup>*</sup>:**  
 https://rawgit.com/GamerGate/Adblock-Plus-filter-list/master/install.html  
 
 **GamerGate Support List:**  
