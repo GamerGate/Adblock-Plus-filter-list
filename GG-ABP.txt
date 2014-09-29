@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201409151540
+! Version: 201409291450
 ! Title: GamerGate
-! Last modified: 15 Sep 2014 15:40 UTC
+! Last modified: 29 Sep 2014 14:50 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/GamerGate/Adblock-Plus-filter-list/
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -37,6 +37,7 @@
 ||www.ausgamers.com^
 ||www.gameplanet.co.nz^
 ||borderhouseblog.com^
+||www.gamegatenews.com^
 !-------------------------IT News/Review/Opinion Sites-------------------------!
 ||gizmodo.com^
 ||www.gizmodo.co.uk^
@@ -64,6 +65,11 @@
 ||www.newyorker.com^
 ||www.cracked.com^
 ||mic.com^
+||www.xojane.com^
+!--------------------------Art/Design/Webcomics Sites--------------------------!
+||syacartoonist.com^
+||andysartworks.com^
+||tompreston.deviantart.com^
 !-------------------------Other Special Interest Sites-------------------------!
 ||gawker.com^
 ||valleywag.gawker.com^
@@ -81,15 +87,21 @@
 ||truckyeah.jalopnik.com^
 ||cink.hu^
 ||www.doctornerdlove.com^
-!-----------------------Livestreamers/Vloggers/Podcasters----------------------!
-||www.idlethumbs.net^
+||rationalwiki.org^
 !-----------------------------Forum/Community Sites----------------------------!
 ||www.neogaf.com^
 ||www.somethingawful.com^
+||www.4chan.org^
+||boards.4chan.org^
+!----------------------------------Podcasters----------------------------------!
+||www.idlethumbs.net/idlethumbs
+||itunes.apple.com/podcast/idle-thumbs
 !-----------------------Video Game Developers/Publishers-----------------------!
 ||loveshackentertainment.com^
 ||polytroncorporation.com^
 ||fullbright.company^
+||fullbrig.ht^
+||blog.fullbrig.ht^
 ||auntiepixelante.com^
 !----------------------------PR/Ad/Creative Agencies---------------------------!
 ||silverstringmedia.com^
@@ -109,3 +121,13 @@
 ||www.indiecade.com^
 ||www.feministfrequency.com^
 ||critical-proximity.com^
+||xoxofest.com^
+||www.digra.org^
+||digra2014.eae.utah.edu^
+||www.nordic-digra.org^
+||digrafinland.wordpress.com^
+||digraa.org^
+||||digrajapan.org^
+||digra-j.net^
+||digrastudents.org^
+||todigra.org
