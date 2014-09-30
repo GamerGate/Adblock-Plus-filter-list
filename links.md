@@ -19,4 +19,4 @@ http://tny.im/gg-support (short URL)
 http://makealist.com/content/gamergate-watch-them-fall **OR**  
 http://tny.im/gg-effects (short URL)  
 
-**<sup>*</sup>** Installing this filter list will block **ALL** traffic to **ALL** the domains on the boycott list. It won't just block the ads on the domains. It will block the domains entirely. The domains won't load **AT ALL**. No traffic or ad revenue will go to the domains **AT ALL**.
+**<sup>*</sup>** Installing this filter list will block **ALL** traffic to **ALL** the sites on the boycott list. It won't just block the ads on the sites. It will block the sites entirely. The sites won't load **AT ALL**. No traffic or ad revenue will go to the sites **AT ALL**.
