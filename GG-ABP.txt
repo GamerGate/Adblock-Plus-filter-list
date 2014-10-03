@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201409291450
+! Version: 201410031145
 ! Title: GamerGate
-! Last modified: 29 Sep 2014 14:50 UTC
+! Last modified: 03 Oct 2014 11:45 UTC
 ! Expires: 1 day
 ! Homepage: https://github.com/GamerGate/Adblock-Plus-filter-list/
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -18,7 +18,6 @@
 ||www.polygon.com^
 ||www.destructoid.com^
 ||www.rockpapershotgun.com^
-||www.escapistmagazine.com^
 ||motherboard.vice.com^
 ||www.ign.com^
 ||uk.ign.com^
@@ -45,8 +44,6 @@
 ||gizmodo.uol.com.br^
 ||www.gizmodo.jp^
 ||www.pcauthority.com.au^
-||techcrunch.com^
-||www.wired.com^
 ||arstechnica.com^
 !------------------Geek/Pop Culture News/Review/Opinion Sites------------------!
 ||www.vice.com^
@@ -62,10 +59,12 @@
 ||uproxx.com^
 ||comicsalliance.com^
 ||www.pastemagazine.com^
+||www.wired.com^
 ||www.newyorker.com^
 ||www.cracked.com^
 ||mic.com^
 ||www.xojane.com^
+||www.theverge.com^
 !--------------------------Art/Design/Webcomics Sites--------------------------!
 ||syacartoonist.com^
 ||andysartworks.com^
@@ -92,6 +91,7 @@
 !-----------------------------Forum/Community Sites----------------------------!
 ||www.neogaf.com^
 ||www.somethingawful.com^
+||www.rllmukforum.com^
 ||www.4chan.org^
 ||boards.4chan.org^
 !----------------------------------Podcasters----------------------------------!
